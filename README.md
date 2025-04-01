@@ -32,3 +32,11 @@ index = PineconeVectorStore.from_documents(
 
 6. I have created a separate section because reading the pdf file generates a lot of metadata, so the metadata will be stored into separate file and it'll be created
 automatically when we run the code
+
+
+Code Snippets :
+![image](https://github.com/user-attachments/assets/427e6f37-7905-473d-a4ee-18859be903bf)
+![image](https://github.com/user-attachments/assets/690f9807-bbbb-4100-93d9-6cf995d84174)
+![image](https://github.com/user-attachments/assets/d1ad1f6a-f50f-4cd0-affb-76f344d5879b)
+
+
